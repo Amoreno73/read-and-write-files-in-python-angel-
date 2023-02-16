@@ -1,5 +1,5 @@
 Jim - salesman
-Dwight -salesman
+Dwight - salesman
 Pam - receptionist
-Michael -Manager
-Oscar - Accountant
+Michael - Manager
+Oscar - Accountantangel - lead managerangel - lead managerangel - lead managerluis - lead manager
